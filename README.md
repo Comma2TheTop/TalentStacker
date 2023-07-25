@@ -7,3 +7,4 @@ Week 3 Homework
 6. Read through the homework prior to Tuesday class.  Read through the homework before looking at the videos.  At least for me it helps pay better attention to them and know what questions to ask during the Tuesday zoom class.  
 7. Don't accidently submit the test file instead of the solution file like I did.  Don't accidently erase one of the questions, like I did. If you get really sleepy, stop.
 8. I need to figure out how to use the hello.apex in order to debug on the fly. 
+Can't learn code by watching videos about how to code....practice practice practice.
